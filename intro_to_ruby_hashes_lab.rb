@@ -51,16 +51,16 @@ def monopoly_with_fourth_tier
 	    :pieces => 4,
 	    :names => {
 	      :reading_railroad => {
-	        "montgage_value" => "$100"
+	        "montgage_value": "$100"
 	      },
 	      :pennsylvania_railroad => {
-	        "montgage_value" => "$200"
+	        "montgage_value": "$200"
 	      },
 	      :b_and_o_railroad => {
-	        "montgage_value" => "$400"
+	        "montgage_value": "$400"
 	      }, 
 	      :shortline => {
-	        "montgage_value" => "$800"
+	        "montgage_value": "$800"
 	      }
 	    },
 	    :rent_in_dollars => { 
